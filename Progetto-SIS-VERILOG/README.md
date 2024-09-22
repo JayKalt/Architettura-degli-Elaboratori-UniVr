@@ -37,5 +37,5 @@ main/
 3. Utilizza il file `testbench.sv` per eseguire test approfonditi e verificare il corretto funzionamento del sistema.
 
 ## Crediti
-JayKalt
-@diegoarroyocamara
+JayKalt<br>
+@diegoarroyocamara (github.com/diegoarroyocamara)
