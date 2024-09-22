@@ -35,3 +35,7 @@ main/
 1. Assicurati di avere un ambiente di sviluppo Verilog/SiS configurato.
 2. Esegui il file `design.sv` per sintetizzare il sistema FSMD.
 3. Utilizza il file `testbench.sv` per eseguire test approfonditi e verificare il corretto funzionamento del sistema.
+
+## Crediti
+JayKalt
+@diegoarroyocamara
