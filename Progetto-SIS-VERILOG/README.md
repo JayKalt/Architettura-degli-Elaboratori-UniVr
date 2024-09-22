@@ -21,7 +21,6 @@ main/
 ├── README.md
 ├── SIS2024.blif
 ├── Relazione.pdf
-├── Relazione.tex
 └── datapath.circ
 ```
 
