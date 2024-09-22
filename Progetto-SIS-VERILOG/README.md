@@ -38,4 +38,4 @@ main/
 
 ## Crediti
 JayKalt<br>
-@diegoarroyocamara (github.com/diegoarroyocamara)
+Diego Arroyo (github.com/diegoarroyocamara)
